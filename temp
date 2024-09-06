@@ -1,0 +1,11 @@
+{
+  "subject": "I have a problem!",
+  "departament": "Support",
+  "status": "Active",
+  "priority": "Low",
+  "user": 2,
+  "message": {
+    "text": "Description of problem",
+    "direction": "Outgoing"
+  }
+}
