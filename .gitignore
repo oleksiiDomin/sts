@@ -1,0 +1,90 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Virtual environments
+env/
+venv/
+ENV/
+ENV*/
+venv*/
+
+# Jupyter Notebook files
+.ipynb_checkpoints
+
+# Pyenv
+.python-version
+
+# dotenv
+.env
+.env.*
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+media/
+
+# Django migrations
+**/migrations/*
+!**/migrations/__init__.py
+
+# MySQL
+*.sql
+*.sqlite3
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# macOS
+.DS_Store
+
+# Test coverage reports
+htmlcov/
+.tox/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Static and media files
+staticfiles/
+media/
+
+# Node.js dependencies (if using Node for frontend)
+node_modules/
+npm-debug.log
+
+# Others
+*.swp
